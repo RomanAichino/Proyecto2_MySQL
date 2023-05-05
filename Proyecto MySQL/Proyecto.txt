@@ -1,0 +1,10 @@
+Buenas, soy Roman Aichino y este es mi mini proyecto en MySQL Workbench.
+Lo hice porque estaba medio oxidado y necesitaba repasar las funciones basicas.
+
+El proyecto trata de que descargue unos datasets en 'https://datos.arsat.com.ar/dataset/cinear-play', cree la base de datos, cree las tablas y las rellene con los datasets (se encuentran tambien en la carpeta tablas), y para finalizarlo cree dos querys y un procedure.
+
+El proyecto es bastante simple, pero con esos pocos datos tampoco podía hacer mucho mas. 
+
+Gmail: romanaichino2002@gmail.com
+Linkedin: https://www.linkedin.com/in/romanaichino/
+<3<3
